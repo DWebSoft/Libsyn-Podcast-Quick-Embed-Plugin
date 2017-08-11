@@ -1,7 +1,7 @@
 # Libsyn-Podcast-Quick-Embed-Plugin
 This is a simple plugin to quickly embed a Libsyn Podcast in your wordpress website. You don't have to go through any complex process for this. A button is provided in editor itself for this. Just click it and insert your podcast id, it will then insert a shortcode in your code. Save the post. And now you have a sweet lybsyn podcast player embedded in your content.
 
-##Frequently Asked Questions
+## Frequently Asked Questions
 1. How to add a Libsyn Podcast Player to your posts?
   Follow these steps:
   1. Goto post edit page
